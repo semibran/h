@@ -1,0 +1,10 @@
+{
+ "name": "h",
+ "version": "0.0.0",
+ "description": "Create virtual nodes",
+ "keywords": ["h", "create", "virtual", "nodes", "html", "dom"],
+ "files": ["index.js"],
+ "license": "MIT",
+ "author": "Brandon Semilla (https://github.com/semibran)",
+ "repository": "semibran/h"
+}
