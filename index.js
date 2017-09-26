@@ -1,11 +1,10 @@
 module.exports = function h(tag, attributes, children) {
-  if (Array.isArray(attributes)) {
+  if (!attributes) attributes = {}
+  else if (Array.isArray(attributes)) {
     children = attributes
-    attributes = null
+    attributes = {}
   }
-  if (!children) {
-    children = []
-  }
+  if (!children) children = []
   return {
     tag: tag,
     attributes: attributes,
