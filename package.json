@@ -1,8 +1,8 @@
 {
  "name": "h",
  "version": "0.0.0",
- "description": "Create virtual nodes",
- "keywords": ["h", "create", "virtual", "nodes", "html", "dom"],
+ "description": "Create virtual DOM nodes",
+ "keywords": ["h", "html", "create", "virtual", "dom", "nodes"],
  "files": ["index.js"],
  "license": "MIT",
  "author": "Brandon Semilla (https://github.com/semibran)",
