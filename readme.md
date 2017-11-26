@@ -27,7 +27,7 @@
 ```
 
 ## see also
-- [`semibran/manifest`](https://github.com/semibran/h) - turn virtual DOM nodes into real DOM elements
+- [`semibran/manifest`](https://github.com/semibran/manifest) - turn virtual DOM nodes into real DOM elements
 
 ## license
 [MIT](https://opensource.org/licenses/MIT) © [Brandon Semilla](https://git.io/semibran)
